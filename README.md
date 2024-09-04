@@ -10,6 +10,13 @@
 - **Email**: admin (at) chooyijie (dot) com
 - **Validity Date**: 17/3/24 to 31/12/24 (289 days)
 
+### Choo Yi Jie (LAPTOP-H3KE0BTT)
+- **Key File**: Choo Yi Jie (LAPTOP-H3KE0BTT)_0x3CFE9AD2_public.asc
+- **Key ID**: 9537 BCB3 3CFE 9AD2
+- **Fingerprint**: 10FD D021 8A93 38CB C385 1A9B 9537 BCB3 3CFE 9AD2
+- **Email**: admin (at) chooyijie (dot) com
+- **Validity Date**: 3/9/24 to 4/9/24 (365 days)
+
 ## Discontinued Keys
 
 ### Choo Yi Jie (Choo Yi Jie Yubikey)
