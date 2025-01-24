@@ -15,7 +15,7 @@
 - **Key ID**: 9537 BCB3 3CFE 9AD2
 - **Fingerprint**: 10FD D021 8A93 38CB C385 1A9B 9537 BCB3 3CFE 9AD2
 - **Email**: admin (at) chooyijie (dot) com
-- **Validity Date**: 3/9/24 to 4/9/24 (365 days)
+- **Validity Date**: 3/9/24 to 4/9/25 (365 days)
 
 ## Discontinued Keys
 
